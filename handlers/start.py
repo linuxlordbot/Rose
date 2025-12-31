@@ -47,7 +47,7 @@ Highlights:
             ],
             [
                 InlineKeyboardButton("※ ŎŴɳēŔ ※", url=f"https://t.me/LinuxLord"),
-                InlineKeyboardButton("Repo", url="https://github.com/LearningBotsOfficial/Nomade"),
+                InlineKeyboardButton("Repo", url="https://github.com/linuxlordbot/Rose"),
                 
             ],
             [InlineKeyboardButton("📚 Help Commands 📚", callback_data="help")]
