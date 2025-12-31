@@ -23,4 +23,4 @@ BOT_USERNAME = os.getenv("BOT_USERNAME", "@Gr0uppHelpBot")
 # Links and visuals
 SUPPORT_GROUP = os.getenv("SUPPORT_GROUP", "https://t.me/dofungroup")
 UPDATE_CHANNEL = os.getenv("UPDATE_CHANNEL", "https://t.me/allassetshere")
-START_IMAGE = os.getenv("START_IMAGE", "https://files.catbox.moe/j2yhce.jpg")
+START_IMAGE = os.getenv("START_IMAGE", "https://files.catbox.moe/cj4lw0.jpg")
