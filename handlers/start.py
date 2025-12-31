@@ -27,7 +27,7 @@ def register_handlers(app: Client):
 
    ✨ Hello {user}! ✨
 
-👋 I am Nomad 🤖 
+👋 I am Nomade Help Bot 🤖 
 
 Highlights:
 ─────────────────────────────
@@ -46,7 +46,7 @@ Highlights:
                 InlineKeyboardButton("⌂ Update ⌂", url=UPDATE_CHANNEL),
             ],
             [
-                InlineKeyboardButton("※ ŎŴɳēŔ ※", url=f"tg://user?id={OWNER_ID}"),
+                InlineKeyboardButton("※ ŎŴɳēŔ ※", url=f"https://t.me/LinuxLord"),
                 InlineKeyboardButton("Repo", url="https://github.com/LearningBotsOfficial/Nomade"),
                 
             ],
